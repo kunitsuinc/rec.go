@@ -1,3 +1,6 @@
+> [!Caution]
+> # This project has been archived. Successor project: [kunitsucom/ilog.go](https://github.com/kunitsucom/ilog.go)
+
 # rec.go - Simple JSON Logger
 
 [![pkg](https://pkg.go.dev/badge/github.com/kunitsuinc/rec.go)](https://pkg.go.dev/github.com/kunitsuinc/rec.go)
